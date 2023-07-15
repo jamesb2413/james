@@ -1,1 +1,1 @@
-# james
+# LeetCode [profile](https://leetcode.com/nickbarna/)
